@@ -26,6 +26,7 @@ Weights of pretrained Resnet18(trained on ImageNet dataset) downloaded from Pyto
   Fully Connected Layer 4 (in=10, out=3)
 
 A ReLU is placed after each Fully Connected Layer except the last layer which has a softmax.
+
 Total Parameters = 11907815
 
 ## Dataset
